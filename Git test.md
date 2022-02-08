@@ -1,4 +1,4 @@
-# las cosas de la vida 
+# las cosas de la vida 0
 esto va a ser divertido
 para las cosas que tenemos que considerar 
 otros cambios a realizar en el commit. 
