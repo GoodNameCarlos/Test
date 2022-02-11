@@ -7,3 +7,8 @@ más cambios  que estar checando
 esto es un cambio
 
 un cambio de prueba
+
+Lista de compras
++ cosa 1
++ cosa 2
++ cosa 3
