@@ -24,3 +24,7 @@ lista de cosas por hacer
 + cosa 5
 
 esto es un trabajo más importante que nada!! 
+
+## el trabajo está muy chido liro mi guajiro
+Los caminos de la vida no son como yo __pensaba__.  
+Las pruebas no son nada si no se obtienen legalmente. 
