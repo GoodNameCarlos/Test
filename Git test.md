@@ -14,3 +14,5 @@ Lista de compras
 + cosa 3
 
 Este es un trabajo en el que estamos agregando cosas nuevas.
+
+Pero que aún hay más problemas 
