@@ -24,3 +24,7 @@ lista de cosas por hacer
 + cosa 5
 
 esto es un trabajo más importante que nada!! 
+
+# Un tema nuevo
+Este es un tema nuevo, pero me da cosa escribirlo a lo loco.
+git merge es una herrmaienta bien interesante. 
