@@ -12,3 +12,5 @@ Lista de compras
 + cosa 1
 + cosa 2
 + cosa 3
+
+Este es un trabajo en el que estamos agregando cosas nuevas.
