@@ -12,3 +12,5 @@ lista de cosas por hacer
 + cosa 1
 + cosa 2
 + cosa 3
++ cosa 4
++ cosa 5
