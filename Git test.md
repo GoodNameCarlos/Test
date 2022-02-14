@@ -28,3 +28,7 @@ esto es un trabajo más importante que nada!!
 # Un tema nuevo
 Este es un tema nuevo, pero me da cosa escribirlo a lo loco.
 git merge es una herrmaienta bien interesante. 
+
+## el trabajo está muy chido liro mi guajiro
+Los caminos de la vida no son como yo __pensaba__.  
+Las pruebas no son nada si no se obtienen legalmente. 
