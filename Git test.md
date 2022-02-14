@@ -33,6 +33,10 @@ git merge es una herrmaienta bien interesante.
 Los caminos de la vida no son como yo __pensaba__.  
 Las pruebas no son nada si no se obtienen legalmente. 
 
+# vamos a agregar dos cosas más 
++ una
++ dos
+
 # Se quiere generar un conflicto 
 + 1
 + 2
