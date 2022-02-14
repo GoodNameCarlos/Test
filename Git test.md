@@ -32,3 +32,7 @@ git merge es una herrmaienta bien interesante.
 ## el trabajo está muy chido liro mi guajiro
 Los caminos de la vida no son como yo __pensaba__.  
 Las pruebas no son nada si no se obtienen legalmente. 
+
+# Se quiere generar un conflicto 
++ 1
++ 2
