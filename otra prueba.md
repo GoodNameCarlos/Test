@@ -1,7 +1,4 @@
-# Hola 
-- Esto es una lista.  
+# Prueba de cómo hacer merge 
 
-Esto es otro texto. 
-- Otro punto
-
-**texto** *texto* __*texto*__ _**texto**_
++ main 1 
++ main 2
