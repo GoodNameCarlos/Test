@@ -47,12 +47,3 @@ Las pruebas no son nada si no se obtienen legalmente.
 <<<<<<< HEAD
 # Prueba rama 1
 este es el main
-=======
-# Prueba: Rama dos 
-<<<<<<< HEAD
->>>>>>> 10001b5 (preba: rama dos)
-rama 2
-=======
-rama 2
-comentario rama 2
->>>>>>> e839bf8 (prueba test1)
