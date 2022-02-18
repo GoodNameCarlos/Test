@@ -41,4 +41,8 @@ Las pruebas no son nada si no se obtienen legalmente.
 + 1
 + 2
 
+<<<<<<< HEAD
 # Otro ejemplo que hacer
+=======
+## Este es para cómo cambiar el nombre de una rama
+>>>>>>> 8682b9b (Para ver el cambio del nombre de la rama)
