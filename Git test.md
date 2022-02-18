@@ -44,6 +44,5 @@ Las pruebas no son nada si no se obtienen legalmente.
 # Otro ejemplo que hacer
 ## Este es para cómo cambiar el nombre de una rama
 
-<<<<<<< HEAD
 # Prueba rama 1
 este es el main
